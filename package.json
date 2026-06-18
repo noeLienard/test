@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@elding/sdk": "latest",
+    "@elding/sdk": "^0.6.1",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
